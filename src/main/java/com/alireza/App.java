@@ -12,5 +12,6 @@ public class App
         System.out.println( "Hello World!" );
         App app = new App();
         System.out.println(app.test);
+        System.out.println("This is changed by Alireza");
     }
 }
