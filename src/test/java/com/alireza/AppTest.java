@@ -16,6 +16,8 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         int a = 1;
+        int b = 10;
+        String string = "alireza";
         assertTrue( true );
     }
 }
